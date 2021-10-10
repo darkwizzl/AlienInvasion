@@ -4,4 +4,4 @@ just some txt
 
 ##sub header.
 
-trying to dosometi
+trying to do something
