@@ -5,7 +5,7 @@ class Ship:
         self.screen = ai_game.screen
         self.screen_rect = ai_game.screen.get_rect()
         #load player image and get its rect
-        self.image = pygame.image.load('images/player.png')
+        self.image = pygame.image.load('images/PLAYER.png')
         self.rect = self.image.get_rect()
 
         self.rect.midbottom = self.screen_rect.midbottom

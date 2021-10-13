@@ -18,7 +18,8 @@ class AlienInvasion:
             self.screen.fill(self.settings.bg) 
             for event in pygame.event.get():
                 if event.type == pygame.QUIT:
-                    sys.exit()  
+                    sys.exit()
+            self.ship.blitme() 
             pygame.display.flip()
         
 ai = AlienInvasion()
