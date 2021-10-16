@@ -1,7 +1,4 @@
-#heading
+#AlienInvasion game
 
-just some txt
-
-##sub header.
-
-trying to do something
+This is spaceship game shooting bullets to enimies
+copied from PythonCrashCourse book
